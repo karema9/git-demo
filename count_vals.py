@@ -8,4 +8,5 @@ for i in range(10):
         count2=count2+1
         print( 'There are ', count1, 'numbers greater than 10. ')
 
+# This method does not work
 print( 'There are ', count2, 'zeroes. ')
