@@ -1,2 +1,3 @@
-# git-demo
-a basic crash course on git
+# Git-demo
+
+This repository is intended as a basic presentation for learning Git
